@@ -1,8 +1,7 @@
-- 部署中发生的故事
-  - [曲折的bug](0-first.md)
+- python基础
+  - [01-基本语法](01-base-grammar.md)
+  - [02-列表 元祖 集合 字典](02-list-tuple-set-dict.md)
+  - [03-函数](03-function.md)
+  - [04-对象](04-object.md)
+  - [05-文件](05-file.md)
 
-- django使用入门
-  - [0.关于web](00-about-web.md)
-  
-- 大标题
-  - [0.小标题](123.md)

@@ -33,9 +33,9 @@
 </script>
 
 
-## Django
+## Python
 
-> 一个基于python的web框架
+> 1234
 
 ## 本文档内容
 * 博客部署的曲折bug
@@ -49,9 +49,7 @@
 
 > [中文版](http://python.usyiyi.cn/translate/Django111_LTS/index.html)
 
-## 赞助
 
-![微信支付](_media/wechat.png)
 
 
 
