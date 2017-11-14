@@ -13,4 +13,5 @@
   - [02-Install Hexo & start my blog](test-02-install-hexo-start-blog.md)	
   - [03-newpage & tags](test-03-newpage-tags.md)	
   - [04-categories](test-04-categories.md)	
-  - [05-use iterm2](test-05-use-iterm2.md)	
+  - [05-use iterm2](test-05-use-iterm2.md)  
+  - [06-use iterm2](test-05-use-iterm2.md)	
